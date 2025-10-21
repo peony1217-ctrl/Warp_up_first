@@ -1,4 +1,6 @@
 파이썬으로 하는 주가 데이터 분석 – 학습 정리
+- 학습자료 링크 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%B4%88%EB%B3%B4%EC%9E%90-%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90-%EC%89%BD%EA%B2%8C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/dashboard
+- 학습도구 : Google colab
 
 학습 개요
 
@@ -31,7 +33,7 @@ pandas, matplotlib, finance-datareader 등 핵심 라이브러리를 사용해 �
 - 삼성전자와 카카오 주가 비교 그래프 구현
 - 일별 수익률(pct_change()), 상승/하락일 계산, n일 중 k일 상승 확률 등 기초적인 퀀트 분석 로직 구현
 
-학습 소감 및 회고
+회고
 
 지난주부터 학습한 데이터 전처리 과정을 Pandas와 시각화 도구를 연계 활용하여 실제 리얼타임의 자료로 분석해보았다.
 단순 데이터 확인을 넘어서, 패턴과 관계를 시각적으로 분석하는 경험이 의미 있었다.
