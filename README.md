@@ -1,5 +1,6 @@
 파이썬으로 하는 주가 데이터 분석 – 학습 정리
-- 학습자료 링크 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%B4%88%EB%B3%B4%EC%9E%90-%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90-%EC%89%BD%EA%B2%8C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/dashboard
+- 학습영상 링크 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%B4%88%EB%B3%B4%EC%9E%90-%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90-%EC%89%BD%EA%B2%8C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/dashboard
+- 학습자료 링크 : 한국거래소 https://data.krx.co.kr/
 - 학습도구 : Google colab
 
 학습 개요
